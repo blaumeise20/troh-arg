@@ -41,6 +41,16 @@ Trash Cell ARG: https://discord.gg/qrycyaDYcv
 
 <img src="./resources/fund.png" alt="Fund" width="320" style="max-width: 100%; height: auto;">
 
+### "Cell Indistries" (Image)
+
+> **Source:** Discord <br />
+> **Date of release:** 24.12.2022, 16:52:48 UTC <br />
+> **Link:** https://discord.com/channels/852889827229564958/974777368860319824/1056253121032106034
+> **Original filename:** image.png
+> - [PNG](./resources/image.png)
+
+<img src="./resources/image.png" alt="Cell Indistries" width="320" style="max-width: 100%; height: auto;">
+
 ### "manage_leak" (Video)
 
 > **Source:** Discord <br />
@@ -117,8 +127,6 @@ Trash Cell ARG: https://discord.gg/qrycyaDYcv
 <video width="320" height="240" controls style="max-width: 100%; height: auto;">
     <source src="./resources/vault.mp4" type="video/mp4">
 </video>
-
-TODO: Add Cell Industries resources here
 
 ## Theories/Findings
 
