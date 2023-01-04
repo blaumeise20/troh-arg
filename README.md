@@ -30,6 +30,9 @@ Trash Cell ARG: https://discord.gg/qrycyaDYcv
   
 <audio controls style="width: 320px; max-width: 100%;">
     <source src="./resources/worst_piggies.mp3" type="audio/mpeg">
+
+https://raw.githubusercontent.com/blaumeise20/troh-arg/main/resources/worst_piggies.mp3
+
 </audio>
 
 ### "fund" (Image)
@@ -50,6 +53,9 @@ Trash Cell ARG: https://discord.gg/qrycyaDYcv
 
 <video width="320" height="240" controls style="max-width: 100%; height: auto;">
     <source src="./resources/manage_leak.mp4" type="video/mp4">
+
+https://raw.githubusercontent.com/blaumeise20/troh-arg/main/resources/manage_leak.mp4
+
 </video>
 
 ### "A Snowy Announcement! :D" (Video)
@@ -72,6 +78,9 @@ Trash Cell ARG: https://discord.gg/qrycyaDYcv
 
 <video width="320" height="240" controls style="max-width: 100%; height: auto;">
     <source src="./resources/snowy.mp4" type="video/mp4">
+
+https://raw.githubusercontent.com/blaumeise20/troh-arg/main/resources/snowy.mp4
+
 </video>
 
 ### "2_beats" + "3_beats" + "4_beats" (Audio)
@@ -86,14 +95,23 @@ Trash Cell ARG: https://discord.gg/qrycyaDYcv
 
 <audio controls style="width: 320px; max-width: 100%;">
     <source src="./resources/2_beats.wav" type="audio/x-wav">
+
+https://raw.githubusercontent.com/blaumeise20/troh-arg/main/resources/2_beats.wav
+
 </audio>
 
 <audio controls style="width: 320px; max-width: 100%;">
     <source src="./resources/3_beats.wav" type="audio/x-wav">
+
+https://raw.githubusercontent.com/blaumeise20/troh-arg/main/resources/3_beats.wav
+
 </audio>
 
 <audio controls style="width: 320px; max-width: 100%;">
     <source src="./resources/4_beats.wav" type="audio/x-wav">
+
+https://raw.githubusercontent.com/blaumeise20/troh-arg/main/resources/4_beats.wav
+
 </audio>
 
 ### "An actual Self-Solving Vault | Cell Machine Plus" (Video)
@@ -116,6 +134,9 @@ Trash Cell ARG: https://discord.gg/qrycyaDYcv
 
 <video width="320" height="240" controls style="max-width: 100%; height: auto;">
     <source src="./resources/vault.mp4" type="video/mp4">
+
+https://raw.githubusercontent.com/blaumeise20/troh-arg/main/resources/vault.mp4
+
 </video>
 
 TODO: Add Cell Industries resources here
