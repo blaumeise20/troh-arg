@@ -120,4 +120,18 @@ If you look at the second part of glitch 1, we can see that there is a bottom ri
 
 ### Replacement of 'i' with 'u' (and vice versa)
 
+[THEORY] The name of "Cell Indistries" is clearly misspelled. If you look at the replaced character, it's an 'u' replaced by 'i'. This is also the case in the name of "fund", leading to a name of "find.png" if you replace the 'u' with an 'i'.
+
+*The connection of the letter swapping has not been verified yet.*
+
 ### Letters in "Construct"
+
+[UNLIKELY THEORY] If you turn around with the gradiation curve of "Construct", you get this:
+
+![Construct recolored](findings/construct_recolored.png)
+
+There are a few lines and shapes in there that look out of place:
+
+![Construct letters](findings/construct_letters.png)
+
+These have not been decoded yet, but they might be letters.
