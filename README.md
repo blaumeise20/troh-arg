@@ -112,3 +112,12 @@ If you look at the second part of glitch 1, we can see that there is a bottom ri
 
 [LIKELY THEORY] The amount of places where the shape occurs shows that this shape has to be the main icon of this ARG.
 
+### Text in glitch 1
+
+### Morse code in glitch 2
+
+### Dimensions of "fund"
+
+### Replacement of 'i' with 'u' (and vice versa)
+
+### Letters in "Construct"
